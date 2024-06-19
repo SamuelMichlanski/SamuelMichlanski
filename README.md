@@ -11,7 +11,7 @@
  
 <br>
  
-### Algumas formas de contato com SamuelMichlanski abaixo
+### Algumas formas de contato com Samuel Michlanski abaixo
  
 <div>
   <a href="https://instagram.com/samuelmichlanski_09"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
