@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil de Samuel Michlanski 
  <div>
+    <a href="https://github.com/SamuelMichlanski/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=SamuelMichlanski&show_icons=true&theme=tokyonight" > </a>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMichlanski&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
